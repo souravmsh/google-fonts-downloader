@@ -1,7 +1,10 @@
 <?php
 /**
- * GoogleFontsDownloader
- */
+* GoogleFontsDownloader
+* Easy way to download any google fonts.
+* @author     Shohrab Hossain
+* @version    1.0.0 
+*/
 class GoogleFontsDownloader
 {
 	private $url      = '';
