@@ -2,7 +2,7 @@
 /**
 * GoogleFontsDownloader
 * Easy way to download any google fonts.
-* @author     Shohrab Hossain
+* @author     Shohrab Hossain <sourav.diubd@gmail.com>
 * @version    1.0.0 
 */
 class GoogleFontsDownloader
